@@ -1,0 +1,9 @@
+C:\Users\aluno\Desktop\Exaula2308\Exaula2308\bin\Debug\Exaula2308.exe.config
+C:\Users\aluno\Desktop\Exaula2308\Exaula2308\bin\Debug\Exaula2308.exe
+C:\Users\aluno\Desktop\Exaula2308\Exaula2308\bin\Debug\Exaula2308.pdb
+C:\Users\aluno\Desktop\Exaula2308\Exaula2308\obj\Debug\Exaula2308.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\Exaula2308\Exaula2308\obj\Debug\Exaula2308.Form1.resources
+C:\Users\aluno\Desktop\Exaula2308\Exaula2308\obj\Debug\Exaula2308.Properties.Resources.resources
+C:\Users\aluno\Desktop\Exaula2308\Exaula2308\obj\Debug\Exaula2308.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\Exaula2308\Exaula2308\obj\Debug\Exaula2308.exe
+C:\Users\aluno\Desktop\Exaula2308\Exaula2308\obj\Debug\Exaula2308.pdb
